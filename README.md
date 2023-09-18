@@ -12,6 +12,21 @@
 - [ ] 3rd thing
 - [ ] 4th thing
 
+|**Tables**|**Are**|**Cool**|
+|:---------|:----------:|-------:|
+|col 3 is  |right-aliged|   $1600|
+|col 2 is  |  centered  |     $12|
+|zebras stripes|are neat|      $1|
+
+|**Markdown**|**Less**|**Pretty**|
+|:-----------|:-------|:---------|
+|Still  |`renders`| **nicely**|
+|1      |    2    |          3|
+
+**粗體**
+*斜體*
+~~刪除線~~
+
 ```python
 s = "Python Highlighting Sybtax"
 print(s)
