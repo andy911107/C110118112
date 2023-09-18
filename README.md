@@ -26,6 +26,7 @@
 **粗體**
 *斜體*
 ~~刪除線~~
+***粗斜體***
 
 ```python
 s = "Python Highlighting Sybtax"
